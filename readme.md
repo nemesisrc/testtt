@@ -5,13 +5,7 @@
 
 > A lightweight, real-time chat room application built with Python, Flask, and SocketIO. Create temporary rooms, share unique codes, and chat instantly without refreshing the page.
 
----
-
-## 📸 Preview
-
-_[ Insert a screenshot or GIF of your chat app here for maximum visual appeal ]_
-
----
+---
 
 ## ✨ Key Features
 
