@@ -1,5 +1,3 @@
-Here is a modern, visually appealing `README.md` template designed for this specific project. You can copy and paste the raw code below directly into your project.
-
 ---
 
 # 💬 Flask Live Chat
@@ -129,11 +127,3 @@ Feel free to check the [issues page](https://www.google.com/search?q=https://git
 
 ---
 
-## 👏 Credits
-
-This project is based on the tutorial by **Tech With Tim**.
-
-- 📺 [Watch the Full Tutorial Here](https://www.youtube.com/watch?v=mkXdvs8H7TA)
-- 💻 [Tech With Tim GitHub](https://github.com/techwithtim)
-
----
