@@ -1,3 +1,4 @@
+
 ---
 
 # 💬 Flask Live Chat
@@ -126,4 +127,3 @@ Feel free to check the [issues page](https://www.google.com/search?q=https://git
 5. Open a Pull Request
 
 ---
-
